@@ -104,4 +104,5 @@ if __name__ == '__main__':
 		print(hand)
 		n=n+1
 	input("\n Press the enter key to exit.")
-        """why ary you so diao--by master"""	
+
+        """why ary you so diao--by master"""
